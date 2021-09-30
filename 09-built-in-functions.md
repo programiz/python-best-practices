@@ -1,6 +1,6 @@
 # 7 Python Built-in Functions You Should Know
 
-Video Link: [Put Link Here]()
+Video Link: [https://youtu.be/2_xfAoJFWBY]()
 
 In this video, we will look at seven different Python Built-in functions that will help you write more pythonic code.
 

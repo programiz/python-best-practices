@@ -1,6 +1,6 @@
 # 8 Python Tips and Tircks You Might Not Know About
 
-Video Link: [Put Link Here]()
+Video Link: [https://youtu.be/XUqfoTpqDsU]()
 
 In this video, we will look at eight Python programming tips and tricks you might not have known about. This will definitely help you write python codes in more efficient way.
 
